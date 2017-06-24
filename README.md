@@ -1,2 +1,0 @@
-# nnamazingtraining
-Sample git repo
